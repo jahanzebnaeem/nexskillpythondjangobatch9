@@ -5,3 +5,7 @@ h1 {
 body {
   background-color: green;
 }
+
+table {
+  border: 2px solid black;
+}
